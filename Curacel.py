@@ -1,4 +1,4 @@
-import Risk analizer
+import RiskAnalizer
 import requests
 
 
